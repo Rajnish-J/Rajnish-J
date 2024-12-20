@@ -23,9 +23,9 @@ Passionate software developer crafting elegant solutions. Lover of clean code, c
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rajnish-J&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajnish-J&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnish-J&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajnish-J&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajnish-J&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnish-J&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
@@ -33,4 +33,3 @@ Passionate software developer crafting elegant solutions. Lover of clean code, c
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
