@@ -28,7 +28,7 @@ Passionate software developer crafting elegant solutions. Lover of clean code, c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnish-J&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Rajnish-J&theme=dark&hide_border=false)
 [![](https://visitcount.itsvg.in/api?id=Rajnish-J&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
