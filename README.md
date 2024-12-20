@@ -1,6 +1,5 @@
 # 💫 About Me:
-Passionate software developer crafting elegant solutions.  
-Lover of clean code, coffee, and continuous learning.  
+Passionate software developer crafting elegant solutions. Lover of clean code, coffee, and continuous learning.  
 Building better tech, one line at a time.
 
 ---
