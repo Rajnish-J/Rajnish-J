@@ -79,6 +79,13 @@
 
 ---
 
+## 🏆 Streak Snake Animation 🐍
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajnish-j/rajnish-j/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🚀 Profile Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=rajnish-j&color=blue)
 
