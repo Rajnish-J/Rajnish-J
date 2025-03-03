@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Rajnish Jaisankar 👋</h1>
 <h3 align="center">🚀 Passionate Software Developer | Crafting elegant solutions with clean code 🚀</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80%"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -75,13 +71,6 @@
 ## 🔥 GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnish-j&theme=react"/>
-</p>
-
----
-
-## 🏆 Streak Snake Animation 🐍
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajnish-j/rajnish-j/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
