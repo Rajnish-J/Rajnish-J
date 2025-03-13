@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on [Synergech]([https://github.com/Rajnish-J/Hopsify](https://www.synergech.com/))
+- 🔭 Currently working on [Synergech](https://www.synergech.com/)
 - 🌱 Learning **Fast API, Data Structures and Algorithms and AI agents**
 - 💬 Ask me about **Java, Spring, React.js**
 - 📫 Reach me at **rajnishofficial02@gmail.com**
