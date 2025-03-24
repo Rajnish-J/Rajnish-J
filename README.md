@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on [Hospify](https://github.com/Rajnish-J/Hopsify)
-- 🌱 Learning **Spring Boot, React.js**
+- 🔭 Currently working on [Synergech](https://www.synergech.com/)
+- 🌱 Learning **Fast API, Data Structures and Algorithms and AI agents**
 - 💬 Ask me about **Java, Spring, React.js**
 - 📫 Reach me at **rajnishofficial02@gmail.com**
 - 📄 [Check out my resume](https://drive.google.com/drive/folders/179BQS8O7Xxnj9NoXqYwD0I_DFDonR-Th)
